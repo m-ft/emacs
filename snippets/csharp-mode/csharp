@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: C# boilerplate
+# key: C#
+# --
+
+using System;
+
+namespace MyProgram {
+    class Program {
+        static void Main (string[] args) {
+
+        }
+    }
+}

@@ -1,0 +1,6 @@
+ls
+./hello
+./hello.sh
+touch MyScript
+chmod +x MyScript
+./MyScript
